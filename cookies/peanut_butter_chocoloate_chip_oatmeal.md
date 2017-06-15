@@ -11,7 +11,7 @@ adapted from [this recipe][1]
 
 ## yield
 
-~20-30 cookies
+~40 cookies
 
 ## ingredients
 
