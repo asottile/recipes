@@ -35,6 +35,10 @@ adapted from [this recipe][1]
 4. Put in baking dish / brownie tin / muffin tin / etc.
 5. Bake until top is light brown and an inserted toothpick comes out clean.
 
+## also try
+
+- try adding a handful or two of chocolate chips
+
 ## adjustments
 
 The original recipe had not quite enough sugar.  I also usually make a half
