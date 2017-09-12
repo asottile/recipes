@@ -7,7 +7,7 @@ adapted from [this recipe][1]
 
 ## preheat
 
-375F
+375°F
 
 ## yield
 
