@@ -7,7 +7,7 @@ adapted from [this recipe][1]
 
 ## preheat
 
-350F
+350°F
 
 ## ingredients
 
