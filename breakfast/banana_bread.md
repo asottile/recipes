@@ -15,12 +15,12 @@ adapted from [this recipe][1]
 
 - 2 cups flour
 - 1 teaspoon baking soda
-- 1/4 teaspoon salt
 
 ### wet
 
-- 1/2 cup butter
-- 1 cup packed brown sugar (or slightly less than 1 cup)
+- 1/2 cup butter (salted)
+- 1/2 cup packed brown sugar (or slightly less)
+- 1/2 cup granulated sugar
 - 2 eggs
 - ~2 cups bananas (overripe, mashed) -- (About 4 bananas)
 - splash of vanilla extract
