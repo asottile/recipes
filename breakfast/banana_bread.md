@@ -44,4 +44,12 @@ adapted from [this recipe][1]
 The original recipe had not quite enough sugar.  I also usually make a half
 recipe as I rarely have four uneaten bananas.  I also added some spices.
 
+## variations
+
+### pumpkin bread
+
+- Swap out bananas for an equal part of canned pumpkin pie mix.
+- For a less-sweet alternative, use canned pumpkin.
+- Add a few additional dashes of cinnamon and nutmeg.
+
 [1]: http://allrecipes.com/recipe/20144/banana-banana-bread/
