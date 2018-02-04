@@ -39,7 +39,7 @@ adapted from [this recipe][1]
 
 1. Combine and mix dry ingredients, set aside.
 2. Cream wet ingredients
-3. Slowly beat in wet ingredients
+3. Slowly beat in dry ingredients
 4. Stir by hand the rest of the ingredients
 5. Use a heaping tablespoon (or cookie scoop) to place cookies on sheet
 6. Bake for 8-10 minutes or until the edges are slightly brown (err on the
