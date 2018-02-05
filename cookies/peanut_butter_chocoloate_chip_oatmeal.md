@@ -32,7 +32,7 @@ adapted from [this recipe][1]
 
 ### hand
 
-- 1 cup semi sweet chocolate chips
+- 1 cup milk or semi sweet chocolate chips
 - 1 and 1/2 cups quick oats
 
 ## directions
