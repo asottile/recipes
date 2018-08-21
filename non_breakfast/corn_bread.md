@@ -11,17 +11,17 @@ Adapted from college roommate Sam's recipe.
 
 1. Combine in a bowl
 
-  - 3 eggs
-  - 1 can cream-style corn
-  - 1 finely diced fresh jalapeño (or other hot pepper)
-  - 3/4 cup milk
-  - 1/4 cup vegetable oil
-  - 1/2 cup grated cheese
-  - 1/2 teaspoon salt
-  - 3/4 tablespoon garlic powder
-  - 1/2 tablespoon cayenne powder
-  - 1 teaspoon baking powder
-  - 1 + 1/4 cup yellow cornmeal
+   - 3 eggs
+   - 1 can cream-style corn
+   - 1 finely diced fresh jalapeño (or other hot pepper)
+   - 3/4 cup milk
+   - 1/4 cup vegetable oil
+   - 1/2 cup grated cheese
+   - 1/2 teaspoon salt
+   - 3/4 tablespoon garlic powder
+   - 1/2 tablespoon cayenne powder
+   - 1 teaspoon baking powder
+   - 1 + 1/4 cup yellow cornmeal
 
 1. Lightly oil cast iron skillet.
 1. Add three slivers of butter to your cast iron skillet and place in the oven.
