@@ -23,10 +23,11 @@ Adapted from college roommate Sam's recipe.
   - 1 teaspoon baking powder
   - 1 + 1/4 cup yellow cornmeal
 
-2. Lightly oil cast iron skillet.
-3. Add three slivers of butter to your cast iron skillet and place in the oven.
-4. Heat until butter is melted but not browned.
-5. Pour batter into pan.
-6. Sprinkle additional cheese on top.
-7. Cover with aluminum foil and bake for 20 minutes.
-8. Remove foil and bake until browned.
+1. Lightly oil cast iron skillet.
+1. Add three slivers of butter to your cast iron skillet and place in the oven.
+1. Heat until butter is melted but not browned.
+1. (Optional) for a less-seasoned skillet sprinkle cornmeal.
+1. Pour batter into skillet.
+1. Sprinkle additional cheese on top.
+1. Cover with aluminum foil and bake for 20 minutes.
+1. Remove foil and bake until browned.
