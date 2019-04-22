@@ -34,6 +34,6 @@ wanted that in cookie form!  dad  and I adjusted the recipe to this!
 1. Cream wet ingredients
 2. Slowly beat in dry ingredients
 3. Stir by hand the rest of the ingredients
-5. Roll 1" balls (or use cookie scoop) onto  sheet
+5. Roll 1" diameter balls (or use cookie scoop) onto  sheet
 6. Bake for 9-11 minutes or until the edges are slightly brown (err on the
    side of under-done).
