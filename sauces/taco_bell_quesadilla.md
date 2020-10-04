@@ -18,8 +18,8 @@ ever go to taco bell?
 ### wet
 
 - 1/4 cup *light* mayonnaise
-- 2 teaspoons minced jalepeno (usually canned)
-- 2 teaspoons jalepeno sauce (left over from the can)
+- 2 teaspoons minced jalapeño (usually canned)
+- 2 teaspoons jalapeño sauce (left over from the can)
 
 ## directions
 
