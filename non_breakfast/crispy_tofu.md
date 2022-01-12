@@ -5,7 +5,7 @@ crispy tofu
 
 ### tofu
 
-- 1 tofu brick (I usually use a 16oz brick)
+- 1 tofu brick (I usually use an extra firm 16oz brick)
 
 ### crisp
 
@@ -20,7 +20,10 @@ crispy tofu
 unfortunately this is a hurry-up-and-wait sort of recipe
 
 1. slice the brick of tofu into thin (1/2") slabs (usually ~8)
-1. dry for at least an hour
+    - As noted in the ingredients, I usually use extra firm tofu, but firm or
+      even medium will probably work too. Anything softer than medium may
+      disintegrate when drying and/or pan frying.
+3. dry for at least an hour
     - I usually place the slabs on paper towels between two cutting boards
       and place heavy bowls on top
     - if you don't want to wait that long, you can press the individual slabs
