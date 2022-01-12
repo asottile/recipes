@@ -23,7 +23,7 @@ unfortunately this is a hurry-up-and-wait sort of recipe
     - As noted in the ingredients, I usually use extra firm tofu, but firm or
       even medium will probably work too. Anything softer than medium may
       disintegrate when drying and/or pan frying.
-3. dry for at least an hour
+1. dry for at least an hour
     - I usually place the slabs on paper towels between two cutting boards
       and place heavy bowls on top
     - if you don't want to wait that long, you can press the individual slabs
