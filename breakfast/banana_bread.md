@@ -25,8 +25,8 @@ adapted from [this recipe][1]
 - ~2 cups bananas (overripe, mashed) -- (About 4 bananas)
 - splash of vanilla extract
 - a few dashes of cinnamon
-- a dash of nutmeg
-
+- em dash of nutmeg
+- en dash of ground cloves
 ## directions
 
 1. Combine and mix dry ingredients, set aside
