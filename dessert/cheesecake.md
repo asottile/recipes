@@ -38,7 +38,7 @@ approximately this ratio
 1. preheat 325°F
 1. crush
 1. combine loosely
-1. bake 15ish minutes stirring
+1. bake 5-7ish minutes stirring
 
 # fruit topping variant
 
