@@ -24,7 +24,7 @@ heat bath to 176°F
 1. eggs and vanilla next
 1. finally buttermilk
 1. (optional) strain through fine mesh
-1. fill 8oz jars about 2/3 full (fingertip tight)
+1. fill 8oz jars about 1/2 full (fingertip tight) -- about 8 jars for this amount
 1. 90 minutes in bath
 
 # graham cracker topping
